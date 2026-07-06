@@ -5,5 +5,5 @@ https://github.com/AlexZXu/data-science-learning
 
 
 ### Projects
-https://github.com/tkarim45/Beginner-Data-Science-Projects
+[Beginner Data Science Projects](https://github.com/tkarim45/Beginner-Data-Science-Projects)
 
